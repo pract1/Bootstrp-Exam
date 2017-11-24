@@ -1,0 +1,309 @@
+
+body{
+    font-family: ubuntu;
+}
+
+.navbar-default .navbar-brand {
+    color: whiter;
+    font-size: 20px;
+}
+
+.logo {
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-default {
+    background-color:transparent;
+    border-color: transparent;
+  
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-size: 18px;
+    margin: 0px 26px;
+}
+
+
+
+
+.nav navbar-nav icon{}
+.icon{}
+.icon a{
+    padding: 0px;
+}
+
+.nav navbar-nav{margin-left: 20px;}
+
+ .navbar-default .navbar-nav>li>a:hover {
+    color: none !important; 
+    background-color: transparent;
+}
+
+
+
+
+.banner{
+    background: url(../img/slider.jpg) no-repeat;background-size: cover;
+    width: 100%;
+    min-height: 660px;
+}
+.banner-content{}
+
+.banner-title{
+    margin-top: 200px;
+}
+.banner-title h1{
+   
+    font-size: 60px;
+    font-family: ubuntu;
+    color: white;
+   
+}
+.banner-title p {
+    font-size: 18px;
+    color: white;
+    font-family: ubuntu;
+    padding: 30px 0px;
+    max-width: 408px;
+}
+
+.my-btn{
+    max-width: 360px;
+}
+
+.own-style {
+    background: #fc6a42;
+    border: none;
+    padding: 10px 20px;
+    font-family: ubuntu;
+  width: 160px;
+   height: 50px;
+    font-size: 18px;
+}
+.own-style:hover{background:  #fc6a42;}
+
+.own-style1{
+    background: #4466c9;
+    border: none;
+    padding: 10px 20px;
+    font-family: ubuntu;
+  width: 160px;
+   height: 50px;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.own-style1:hover{
+    background:  #4466c9;
+}
+
+.feature{
+    padding:135px 0px; 
+}
+
+.feature-title{
+   margin-bottom: 135px;
+   
+}
+
+.feature-title h1 ,.slider-title h1 ,.cloudy h2{
+    color: #648cff;
+     font-family: ubuntu;
+    font-size: 36px;
+}
+.feature-title p ,.slider-title p {
+    color: gray;
+}
+.single{
+    margin-top: 50px;
+}
+.single img{}
+.single p{}
+.single p {
+    max-width: 260px;
+    /* margin: 0 auto; */
+    line-height: 24px;
+    font-size: 16px;
+    color: #aeaeae;
+    margin-left: 96px;
+}
+
+.single span {
+    font-size: 24px;
+    margin-left: 10px;
+    color: #353854;
+}
+
+.slider{
+  
+}
+
+.slider-content{
+    margin-bottom: 120px;
+}
+
+
+
+.carousel-control {
+    position: absolute;
+    
+    
+   
+   
+    width: 15%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+   
+    opacity: .5;
+}
+
+
+#slide{}
+.item img{
+ 
+}
+.main-slider{}
+.my-slider{}
+.my-slider img{
+   
+}
+.left-integetor{}
+.left-integetor img {
+    margin-top: 293px;
+    color: #d3dcec;
+}
+
+.right-integetor img{
+     margin-top: 293px;
+    color: #d3dcec;
+}
+
+
+.screenshort-content {
+    padding: 100px 0px;
+}
+.screenshort-content{}
+.screenshort-content h1{
+    color: #648cff;
+     font-family: ubuntu;
+    font-size: 36px;
+  
+}
+
+.screenshort-content p{
+      padding-bottom: 50px;
+     color: gray;
+}
+.screenshort-img{}
+.screenshort-img img{}
+
+.cloudy{
+    margin-top: 190px;
+}
+.cloudy h2{
+    color: #648cff;
+     font-family: ubuntu;
+    font-size: 36px;
+}
+.cloudy p {
+    color: #353854;
+    max-width: 480px;
+    font-size: 24px;
+}
+
+.promotion-area{
+    padding-top: 50px;
+    color: #648cff;
+}
+
+.promotion-title{}
+.promotion-title h1{}
+.promotion-title p{}
+
+.single-promotion{}
+.quotation{}
+.quotation img{}
+.quotation h3{
+    font-size: 24px;
+      font-family: ubuntu;
+    color: #353854;
+}
+.quotation p{}
+
+.quotation-right{}
+.quotation-right img{}
+
+.apps-area {
+    background: url(../img/contact.jpg) no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    min-height: 330px;
+}
+
+.apps-area-content{
+    padding-top: 60px;
+    color: white;
+}
+
+.app-title{}
+.app-title h1{
+    padding-bottom: 10px;
+}
+.app-title p{}
+
+.app-title p {
+    padding-bottom: 22px;
+    width: 353px;
+    text-align: justify;
+    margin: 0 auto;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+.apps-btn {
+    max-width: 381px;
+}
+
+.footer-logo{
+      margin-top: -17px;
+}
+.footer-logo h2{
+    color: #648cff;
+   font-size: 18px;
+}
+
+.footer-nav-content {
+    padding-top: 65px;
+}
+
+.footer-nav{
+    background:#353854;
+    min-height: 370px;
+}
+
+.border-title {
+    border-bottom: 1px solid #434769;
+    max-width: 1225px;
+    margin: 0 auto;
+    padding-top: 75px;
+}
+
+.copy-right {
+    color: white;
+    margin-top: 63px;
+    font-size: 16px;
+}
+
+.upp-arrow {
+    margin-right: 49px;
+    margin-top: 36px;
+    
+}
+.upp-arrow img {
+    background: gray;
+    padding: 7px 9px;
+}
